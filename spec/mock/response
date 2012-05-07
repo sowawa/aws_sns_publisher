@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+x-amzn-RequestId: 31a0cd81-9846-11e1-90b4-d12bc499e7ee
+Content-Type: text/xml
+Content-Length: 294
+Date: Mon, 07 May 2012 13:11:44 GMT
+
+<PublishResponse xmlns="http://sns.amazonaws.com/doc/2010-03-31/">
+  <PublishResult>
+    <MessageId>0cabab5a-a2bc-439d-836b-c954124d8c6c</MessageId>
+  </PublishResult>
+  <ResponseMetadata>
+    <RequestId>4bcd6511-9846-11e1-99c8-cd4871234eac</RequestId>
+  </ResponseMetadata>
+</PublishResponse>
